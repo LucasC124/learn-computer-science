@@ -1,3 +1,5 @@
+#This code is creating a phonebok by asking for the persons name and phone number and arrange it like this ("\nName\t\t\tPhone Number\n") then it will ask for soemones name
+#And if it macthes it will display their name and phone number if not it will print out saying the name and number cant be found
 names = []
 phone_numbers = []
 num = 2
